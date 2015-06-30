@@ -1,6 +1,10 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+https://github.com/muffettsman/Udacity_P3_Classic_Arcade_Game_Clone
 
-for self-checking their submission.
+To Play:
+	Load index.html (tested in chrome)
+	Press the Up, Down, Left, Right arrow keys to move your character
+	Avoid the bugs while attempting to make it to the water
+	Your total score and total deaths will tally at the bottom.
